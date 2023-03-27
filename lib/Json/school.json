@@ -1,0 +1,116 @@
+{
+  "name of the class": "FirstStandard",
+  "number of students": 15,
+  "detail of students": [
+    {
+      "student name": "Akshaya",
+      "roll number": 1,
+      "place": "Nagercoil",
+      "markslist": [
+        {
+          "subject": "tamil",
+          "mark": 100
+        },
+        {
+          "subject": "english",
+          "mark": 100
+        },
+        {
+          "subject": "maths",
+          "mark": "80"
+        },
+        {
+          "subject": "science",
+          "mark": "80"
+        },
+        {
+          "subject": "social",
+          "mark": "80"
+        }
+      ]
+    },
+    {
+      "student name": "Abi",
+      "roll number": 2,
+      "place": "chennai",
+      "markslist": [
+        {
+          "subject": "tamil",
+          "mark": 100
+        },
+        {
+          "subject": "english",
+          "mark": 100
+        },
+        {
+          "subject": "maths",
+          "mark": "80"
+        },
+        {
+          "subject": "science",
+          "mark": "80"
+        },
+        {
+          "subject": "social",
+          "mark": "80"
+        }
+      ]
+    },
+    {
+      "student name": "Anu",
+      "roll number": 3,
+      "place": "Nagercoil",
+      "markslist": [
+        {
+          "subject": "tamil",
+          "mark": 100
+        },
+        {
+          "subject": "english",
+          "mark": 100
+        },
+        {
+          "subject": "maths",
+          "mark": "80"
+        },
+        {
+          "subject": "science",
+          "mark": "80"
+        },
+        {
+          "subject": "social",
+          "mark": "80"
+        }
+      ]
+    },
+    {
+      "student name": "Ani",
+      "roll number": 4,
+      "place": "Chennai",
+      "markslist": [
+        {
+          "subject": "tamil",
+          "mark": 100
+        },
+        {
+          "subject": "english",
+          "mark": 100
+        },
+        {
+          "subject": "maths",
+          "mark": "80"
+        },
+        {
+          "subject": "science",
+          "mark": "80"
+        },
+        {
+          "subject": "social",
+          "mark": "80"
+        }
+      ]
+    }
+  ]
+}
+
+
